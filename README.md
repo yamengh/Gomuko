@@ -17,7 +17,7 @@ A simple command-line implementation of the classic Gomoku game (5 in a row) wit
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/gomoku-game.git](https://github.com/YOUR_USERNAME/gomoku-game.git)
+   git clone [[https://github.com/YOUR_USERNAME/gomoku-game.git](https://github.com/yamengh/Gomuko)]
    cd gomoku-game
 
 ### Made by : Yamen Hammoud
