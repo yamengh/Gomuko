@@ -12,14 +12,15 @@ Main.java – entry point to run the game
 
 ## How to Run the game
 1. Compile
-  '''
-  cd src/main/java
-  javac com/yamen/gomoku/*.java
-  '''
+  ```bash
+cd src/main/java
+javac com/yamen/gomoku/*.java
+```
+
 2. Run
-   '''
-   java com.yamen.gomoku.Main
-   '''
+   ```bash
+  java com.yamen.gomoku.Main
+  ```
 
  ## Features
 1. Fully playable Gomoku game (two players take turns: X and O)
