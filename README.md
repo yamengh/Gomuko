@@ -18,8 +18,7 @@ javac com/yamen/gomoku/*.java
 ```
 
 2. Run
-   ```
-   bash
+   ```bash
   java com.yamen.gomoku.Main
   ```
 
