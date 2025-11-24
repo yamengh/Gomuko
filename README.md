@@ -1,33 +1,21 @@
-## Gomoku Game (Java)
+# Gomoku Game
 
-A simple, clean implementation of the classic Gomoku (Five in a Row) board game written in Java using OOP principles.
+A simple command-line implementation of the classic Gomoku game (5 in a row) with a 6x6 board, built in Java.
 
-This project includes:
+## 🎮 Game Rules
+- Play against the computer
+- Take turns placing your mark (X) on the 6x6 board
+- First to get 5 in a row (horizontally, vertically, or diagonally) wins
+- The computer makes random moves
 
-Game.java – game logic (turns, win detection, validation)
+## 🚀 Getting Started
 
-GameBoard.java – board representation & rendering
+### Prerequisites
+- Java 11 or higher
+- Maven 3.6.0 or higher
 
-Main.java – entry point to run the game
-
-## How to Run the game
-1. Compile
-  ```bash
-cd src/main/java
-javac com/yamen/gomoku/*.java
-```
-
-2. Run
+### Installation
+1. Clone the repository:
    ```bash
-  java com.yamen.gomoku.Main
-  ```
-
- ## Features
-1. Fully playable Gomoku game (two players take turns: X and O)
-2. Win detection (horizontal, vertical, diagonal)
-3. Input validation (prevent overwriting moves)
-4. Clear board printing to console
-5. Object-oriented design for easy extension
-
-
-## Made By : Yamen Hammoud
+   git clone [https://github.com/YOUR_USERNAME/gomoku-game.git](https://github.com/YOUR_USERNAME/gomoku-game.git)
+   cd gomoku-game
